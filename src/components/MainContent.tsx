@@ -15,7 +15,9 @@ function MainContent() {
       </p>
       <div className='flex items-center gap-[19px] mb-5 sm:mb-[30px]'>
         <p className='text-[#3D8168] font-fraunces text-[32px] leading-[32px] font-bold'>$149.99</p>
-        <p className='text-[#6C7289] line-through font-medium'>$169.99</p>
+        <p className='text-[#6C7289] line-through font-medium text-[13px] leading-[23px]'>
+          $169.99
+        </p>
       </div>
       <button className='bg-[#3D8168] transition-colors hover:bg-[#234b3d] w-full gap-[11.61px] h-12 text-white rounded-lg flex justify-center items-center'>
         <img src='/images/icon-cart.svg' alt='cart icon' />
