@@ -2,7 +2,7 @@ function MainContent() {
   return (
     <div className='p-6 sm:p-8 font-mont sm:w-1/2'>
       <div className='flex flex-col-reverse'>
-        <h1 className='font-bold font-fraunces text-[32px] leading-[32px] mb-4 sm:mb-6'>
+        <h1 className='font-bold font-fraunces text-[32px] leading-[32px] mb-4 sm:mb-6 text-[#1C232B]'>
           Gabrielle Essence Eau De Parfum
         </h1>
         <h2 className='mb-3 sm:mb-5 text-[#6C7289] tracking-[5px] font-medium text-xs leading-[15px]'>
